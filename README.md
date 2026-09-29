@@ -1,6 +1,6 @@
 # ♡ natsuki!! // iamanuclearwarhead ♡
 
-> ₍ᐢ. .ᐢ₎ *sudo opsec and breaking kernels ~* ✧°
+> ₍ᐢ. .ᐢ₎ *sudo opsec ~* ✧°
 
 ```c
 #include <stdio.h>
