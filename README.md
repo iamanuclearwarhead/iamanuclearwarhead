@@ -6,7 +6,7 @@
 #include <stdio.h>
 //sudo opsec
 int main() {
-    printf("hello world! (◕‿◕✿)\n");
+    printf("holy opsec (◕‿◕✿)\n");
     return ♡;
 }
 ```
