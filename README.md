@@ -29,7 +29,7 @@ i use arch btw
 
 ## stuff i made
 
-**[dusty plum](https://github.com/iamanuclearwarhead/dusty-plum)** ♡ muted plum + pastel pink theme, on the zed extension store, plus discord, spotify, firefox, kitty and foot
+**[dusty plum](https://github.com/iamanuclearwarhead/dusty-plum)** on the zed extension store, plus discord, spotify, firefox, kitty and foot
 
 ![zed downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.zed.dev%2Fextensions%2Fdusty-plum-theme&query=%24.data%5B0%5D.download_count&label=zed%20downloads&color=f2a6c6&labelColor=41283d&style=for-the-badge)
 
